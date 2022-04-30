@@ -19,7 +19,7 @@
       </svg>
     </div>
     <div
-      class="absolute top-full flex flex-col w-full"
+      class="absolute top-full flex flex-col w-full z-20"
       :class="`${close && 'hidden'}`"
     >
       <div
